@@ -8,7 +8,9 @@ colorscheme elflord
 set ai
 set ruler
 set hlsearch
+filetype on
 filetype plugin on
+filetype plugin indent on
 
 set foldmethod=indent
 set foldlevel=99
