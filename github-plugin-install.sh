@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 USAGE="Install or update vim plugin from github
 
