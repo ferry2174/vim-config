@@ -18,6 +18,8 @@ map <c-k> <c-w>k
 map <c-l> <c-w>l
 map <c-h> <c-w>h
 
+map <leader>td <Plug>TaskList
+
 let Tlist_Show_One_File=1
 let Tlist_Exit_OnlyWindow=1
 
