@@ -24,6 +24,8 @@ map <leader>td <Plug>TaskList
 
 map <leader>g :GundoToggle<CR>
 
+let g:pep8_map='<leader>8'
+
 let Tlist_Show_One_File=1
 let Tlist_Exit_OnlyWindow=1
 
